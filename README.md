@@ -1,6 +1,6 @@
 *Published 24/12/2025*
 # Latent Temperature Field Reconstruction
-This is a personal indepedent project exploring 2D temperature diffusion using the heat equation and reconstruction from noisy (fuzzy), unreliable sensor readings using a physics based PDE model instead of modern machine learning.
+> An indepedent project exploring 2D temperature diffusion using the heat equation and reconstruction from noisy, unreliable sensor readings using a physics based PDE model instead of modern machine learning. Highlighting probabilistic reasoning later optimisation methods to be employed, through alternative methods.
 
 ## Purpose
 The purpose is to understand diffusion (heat spread), handle numerical boundaries and estimate accurate values with unreliable senor readings.
